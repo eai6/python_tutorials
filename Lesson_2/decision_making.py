@@ -45,7 +45,6 @@ if greater_than(farmer_2_endline, farmer_2_baseline):
 else:
     print("Farmer's score did not increase")
 
-    
 
 # equals     
 if farmer_1_endline == farmer_1_baseline:
@@ -53,9 +52,10 @@ if farmer_1_endline == farmer_1_baseline:
 else:
     print("Farmer's 1 score is not the same")
 
-## Homework ##
+##### Homework #####
+
 ###### if elif else statements #######
     
 #### use the python comparison operators as statements ####
     
-#### different string, float, int ######
+#### different string, float, int #####
